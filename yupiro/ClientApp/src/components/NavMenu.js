@@ -29,7 +29,7 @@ export default props => (
             <Glyphicon glyph='th-list' /> Fetch data
           </NavItem>
         </LinkContainer>
-        <LinkContainer to={'/'}>
+        <LinkContainer to={'/Upload'}>
           <NavItem>
             <Glyphicon glyph='upload'/> Create
           </NavItem>
